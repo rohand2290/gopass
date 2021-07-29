@@ -6,4 +6,4 @@ Make sure to have `go` installed and then run
 ```
 go build
 ```
-and an executable `gopass` should be in the project directory
+and an executable `gopass` should be in the project directory.
